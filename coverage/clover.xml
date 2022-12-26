@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1672046115899" clover="3.2.0">
+  <project timestamp="1672046115899" name="All files">
+    <metrics statements="29" coveredstatements="22" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="3" elements="40" coveredelements="25" complexity="0" loc="29" ncloc="29" packages="2" files="3" classes="3"/>
+    <package name="space-app-api">
+      <metrics statements="17" coveredstatements="12" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="app.mjs" path="D:\GitHub\space-app-api\app.mjs">
+        <metrics statements="17" coveredstatements="12" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="space-app-api.routes">
+      <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+      <file name="index.mjs" path="D:\GitHub\space-app-api\routes\index.mjs">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="space.mjs" path="D:\GitHub\space-app-api\routes\space.mjs">
+        <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
